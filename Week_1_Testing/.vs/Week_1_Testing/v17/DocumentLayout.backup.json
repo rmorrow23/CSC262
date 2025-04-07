@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|c:\\users\\randa\\source\\repos\\csc262\\week_1_testing\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|c:\\users\\randa\\source\\repos\\csc262\\week_1_testing\\testingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|solutionrelative:testingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|c:\\users\\randa\\source\\repos\\csc262\\week_1_testing\\testingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|solutionrelative:testingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|c:\\users\\randa\\source\\repos\\csc262\\week_1_testing\\testingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB02ACA-6B9E-40E0-A30C-61A85F42012D}|Week_1_Testing.csproj|solutionrelative:testingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "TestingForm.cs",
+              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.cs",
+              "RelativeDocumentMoniker": "TestingForm.cs",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.cs",
+              "RelativeToolTip": "TestingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T01:18:34.011Z",
+              "WhenOpened": "2025-04-07T01:25:46.47Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.cs",
+              "RelativeDocumentMoniker": "TestingForm.cs",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.cs [Design]",
+              "RelativeToolTip": "TestingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:41:22.208Z",
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.Designer.cs",
+              "RelativeDocumentMoniker": "TestingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\Week_1_Testing\\TestingForm.Designer.cs",
+              "RelativeToolTip": "TestingForm.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwF8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:41:15.57Z",
+              "EditorCaption": ""
             }
           ]
         }
