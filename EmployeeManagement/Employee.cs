@@ -40,18 +40,28 @@ namespace EmployeeManagement
             Position = position;
             Salary = salary;
         }
-        
+
         //method to get employee details
-        public string GetDetails()
+        public virtual string Display()
         {
             //return Employee Details
-            return "(" + Id + ")" + Name + Email + Phone + Address + Position + Salary;
+            return "(" + Id + ") " + " " + Name + " " + Email + " " + Phone + " " + Address + " " + Position + " " + Salary;
         }
 
-        //method to update employee salary
-        public void UpdateSalary(int newSalary)
+        //method to display certain properties based on given number
+        public virtual string Display(int num)
         {
-            Salary = newSalary;
+            if (num == 2)
+
+            {   //print Employee Name and Position
+                return Name + " " + Position;
+            }
+            else
+            {
+                //print employee name only
+                return Name;
+            }
+
         }
     }
 }
