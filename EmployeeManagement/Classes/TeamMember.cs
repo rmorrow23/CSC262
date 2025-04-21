@@ -45,7 +45,7 @@ namespace EmployeeManagement
             else
             {
                 //print employee name only
-                return Name + " Assigned Manager: " + AssignedManager + " Assigned Team: " + AssignedTeam + " Location:" ;
+                return Name + " Assigned Manager: " + AssignedManager + " Assigned Team: " + AssignedTeam + " Location:" + WorkLocation;
             }
 
         }

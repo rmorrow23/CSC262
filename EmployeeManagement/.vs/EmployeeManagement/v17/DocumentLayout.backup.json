@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|c:\\users\\randa\\source\\repos\\csc262\\employeemanagement\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|solutionrelative:classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|c:\\users\\randa\\source\\repos\\csc262\\employeemanagement\\classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|solutionrelative:classes\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|c:\\users\\randa\\source\\repos\\csc262\\employeemanagement\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|solutionrelative:classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|c:\\users\\randa\\source\\repos\\csc262\\employeemanagement\\frmemployeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,30 +30,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\Classes\\Manager.cs",
               "RelativeDocumentMoniker": "Classes\\Manager.cs",
-              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\Classes\\Manager.cs*",
-              "RelativeToolTip": "Classes\\Manager.cs*",
-              "ViewState": "AgIAABcAAAAASAAAAADsvzMAAAC6AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\Classes\\Manager.cs",
+              "RelativeToolTip": "Classes\\Manager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T07:59:18.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T07:59:18.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TeamMember.cs",
               "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\Classes\\TeamMember.cs",
               "RelativeDocumentMoniker": "Classes\\TeamMember.cs",
               "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\Classes\\TeamMember.cs",
               "RelativeToolTip": "Classes\\TeamMember.cs",
-              "ViewState": "AgIAABYAAAAAzMzMzMzcvycAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T06:21:02.235Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Employee.cs",
               "ViewState": "AgIAAAsAAACAQDMzMzP3vzgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:14:39.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T02:14:39.709Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmEmployeeManage.cs [Design]",
               "RelativeToolTip": "frmEmployeeManage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:18:42.543Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T03:18:42.543Z"
             }
           ]
         }

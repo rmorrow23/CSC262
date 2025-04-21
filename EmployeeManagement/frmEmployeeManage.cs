@@ -55,7 +55,7 @@ namespace EmployeeManagement
                                 canHire = false;
                             }
 
-                            //create a Team Member class
+                            //create a Manager class
                             Manager newManager = new Manager(Int32.Parse(tbID.Text), tbName.Text, tbEmail.Text, tbPhone.Text, tbAddress.Text, cmbPosition.Text, Int32.Parse(tbSalary.Text),cmbProp1.Text, canHire, Int32.Parse(cmbProp3.Text), bonus);
 
                             lvEmployees.Items.Add(newManager.Display(3));
