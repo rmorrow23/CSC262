@@ -38,16 +38,17 @@ namespace EmployeeManagement
                             TeamMember newTeamMember = new TeamMember(Int32.Parse(tbID.Text), tbName.Text, tbEmail.Text, tbPhone.Text, tbAddress.Text, cmbPosition.Text, Int32.Parse(tbSalary.Text), cmbProp1.Text, cmbProp2.Text, cmbProp3.Text);
 
                             lvEmployees.Items.Add(newTeamMember.Display(3));
+                            DatabaseHelper.InsertTeamMembers(tbName.Text, cmbProp2.Text, cmbProp3.Text, Int32.Parse(tbSalary.Text));
                         }
                         else if (cmbPosition.Text == "Manager")
                         {
                             //set bonus to years of experience time $500
                             int bonus = (Int32.Parse(cmbProp3.Text) * 500);
                             bool canHire = false;
-                            
+
                             //convert can hire string to boolean
-                            if (cmbProp2.Text == "True") 
-                            { 
+                            if (cmbProp2.Text == "True")
+                            {
                                 canHire = true;
                             }
                             else
@@ -56,9 +57,11 @@ namespace EmployeeManagement
                             }
 
                             //create a Manager class
-                            Manager newManager = new Manager(Int32.Parse(tbID.Text), tbName.Text, tbEmail.Text, tbPhone.Text, tbAddress.Text, cmbPosition.Text, Int32.Parse(tbSalary.Text),cmbProp1.Text, canHire, Int32.Parse(cmbProp3.Text), bonus);
+                            Manager newManager = new Manager(Int32.Parse(tbID.Text), tbName.Text, tbEmail.Text, tbPhone.Text, tbAddress.Text, cmbPosition.Text, Int32.Parse(tbSalary.Text), cmbProp1.Text, canHire, Int32.Parse(cmbProp3.Text), bonus);
 
                             lvEmployees.Items.Add(newManager.Display(3));
+
+                            DatabaseHelper.InsertManagers(tbName.Text, Int32.Parse(tbSalary.Text), Int32.Parse(cmbProp3.Text), canHire);
                         }
                     }
                 }
@@ -74,7 +77,7 @@ namespace EmployeeManagement
         private void cmbPosition_SelectedIndexChanged(object sender, EventArgs e)
         {
             //change info based on selected employee position
-            if (cmbPosition.Text == "Team Member") 
+            if (cmbPosition.Text == "Team Member")
             {
                 lbProp1.Text = "Manager:";
                 lbProp2.Text = "     Team:";
@@ -120,6 +123,26 @@ namespace EmployeeManagement
                 cmbProp3.Items.Add(2);
                 cmbProp3.Items.Add(3);
             }
+        }
+
+
+        private void frmEmployeeManage_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnViewEmployees_Click(object sender, EventArgs e)
+        {
+            ViewEmployees viewEmployees = new ViewEmployees();
+            this.Hide();
+            viewEmployees.Show();
+        }
+
+        private void btnUsers_Click(object sender, EventArgs e)
+        {
+            ViewUsers viewUsers = new ViewUsers();
+            this.Hide();
+            viewUsers.Show();
         }
     }
 }

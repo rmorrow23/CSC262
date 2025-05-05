@@ -64,3 +64,5 @@ C:\Users\randa\source\repos\CSC262\EmployeeManagement\bin\Debug\net8.0-windows\r
 C:\Users\randa\source\repos\CSC262\EmployeeManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\randa\source\repos\CSC262\EmployeeManagement\obj\Debug\net8.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
 C:\Users\randa\source\repos\CSC262\EmployeeManagement\obj\Debug\net8.0-windows\Employee.61744648.Up2Date
+C:\Users\randa\source\repos\CSC262\EmployeeManagement\obj\Debug\net8.0-windows\EmployeeManagement.ViewEmployees.resources
+C:\Users\randa\source\repos\CSC262\EmployeeManagement\obj\Debug\net8.0-windows\EmployeeManagement.ViewUsers.resources
