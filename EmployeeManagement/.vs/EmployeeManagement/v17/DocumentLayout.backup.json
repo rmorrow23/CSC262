@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|c:\\users\\randa\\source\\repos\\csc262\\employeemanagement\\frmemployeemanage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|solutionrelative:frmemployeemanage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmemployeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7D3228B-40CA-4269-8335-D6E188CE598A}|EmployeeManagement.csproj|solutionrelative:frmemployeemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEmployeeManage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmEmployeeManage.Designer.cs",
+              "RelativeDocumentMoniker": "frmEmployeeManage.Designer.cs",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmEmployeeManage.Designer.cs",
+              "RelativeToolTip": "frmEmployeeManage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:03:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmEmployeeManage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmEmployeeManage.cs",
+              "RelativeDocumentMoniker": "frmEmployeeManage.cs",
+              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\EmployeeManagement\\frmEmployeeManage.cs [Design]",
+              "RelativeToolTip": "frmEmployeeManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:43:49.353Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -3,31 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|c:\\users\\randa\\source\\repos\\csc262\\myfirstdatabase\\dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|c:\\users\\randa\\source\\repos\\csc262\\myfirstdatabase\\teammemberfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:teammemberfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|c:\\users\\randa\\source\\repos\\csc262\\myfirstdatabase\\usersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:usersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\teammemberfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:teammemberfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|c:\\users\\randa\\source\\repos\\csc262\\myfirstdatabase\\usersfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:usersfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|c:\\users\\randa\\source\\repos\\csc262\\myfirstdatabase\\dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CED2E88-C743-4DE8-9799-6AEC6D057BF9}|MyFirstDatabase.csproj|solutionrelative:dbmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RANDA_SOURCE_REPOS_CSC262_MYFIRSTDATABASE_MANAGERS.MDF/True/SqlTable/dbo.ManagerTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,71 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TeamMemberFrm.cs",
               "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\TeamMemberFrm.cs",
               "RelativeDocumentMoniker": "TeamMemberFrm.cs",
               "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\TeamMemberFrm.cs",
               "RelativeToolTip": "TeamMemberFrm.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T14:02:06.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeamMemberFrm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\TeamMemberFrm.cs",
-              "RelativeDocumentMoniker": "TeamMemberFrm.cs",
-              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\TeamMemberFrm.cs [Design]",
-              "RelativeToolTip": "TeamMemberFrm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T14:02:03.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersFrm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\UsersFrm.Designer.cs",
-              "RelativeDocumentMoniker": "UsersFrm.Designer.cs",
-              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\UsersFrm.Designer.cs",
-              "RelativeToolTip": "UsersFrm.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:59:16.751Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsersFrm.cs",
-              "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\UsersFrm.cs",
-              "RelativeDocumentMoniker": "UsersFrm.cs",
-              "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\UsersFrm.cs",
-              "RelativeToolTip": "UsersFrm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T13:58:19.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "dbMenuForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\dbMenuForm.cs",
               "RelativeDocumentMoniker": "dbMenuForm.cs",
               "ToolTip": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\dbMenuForm.cs [Design]",
               "RelativeToolTip": "dbMenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:46:41.984Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-29T11:46:41.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dbMenuForm.cs",
               "DocumentMoniker": "C:\\Users\\randa\\source\\repos\\CSC262\\MyFirstDatabase\\dbMenuForm.cs",
               "RelativeDocumentMoniker": "dbMenuForm.cs",
@@ -109,17 +58,7 @@
               "RelativeToolTip": "dbMenuForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:41:05.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.ManagerTable.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RANDA_SOURCE_REPOS_CSC262_MYFIRSTDATABASE_MANAGERS.MDF/True/SqlTable/dbo.ManagerTable.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_RANDA_SOURCE_REPOS_CSC262_MYFIRSTDATABASE_MANAGERS.MDF/True/SqlTable/dbo.ManagerTable.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-29T12:04:48.343Z"
+              "WhenOpened": "2025-04-29T11:41:05.842Z"
             }
           ]
         }
